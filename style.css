@@ -190,6 +190,10 @@ body {
     padding-bottom: 0px;
     line-height: 80px;
   }
+  .rubrik {
+    padding-top: 110px;
+    margin-top: -110px;
+  }
   body {
     padding-top: 120px;
   }
@@ -220,5 +224,9 @@ body {
   .navbar-brand > img {
     height: 80px;
     width: 80px;
+  }
+  .rubrik {
+    padding-top: 150px;
+    margin-top: -150px;
   }
 }
